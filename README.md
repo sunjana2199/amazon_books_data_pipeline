@@ -12,7 +12,7 @@
 """
 
 
-# Important links and Code
+# 🔗Important links and Code
 -----
 
 ## Install Airflow 
@@ -52,7 +52,7 @@ Code to add in yaml file
 -----
 -----
 
-# Watch this video to Implement this Project from Scratch
+# ⬇️Watch this video to Implement this Project from Scratch
 
 <div align="left">
       <a href="https://www.youtube.com/watch?v=3xyoM28B40Y">
