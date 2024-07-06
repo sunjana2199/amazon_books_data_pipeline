@@ -1,12 +1,15 @@
 
-#Amazon Books Data Pipeline 
+# Amazon Books Data Pipeline 
+-----------
+
 
 ## Create a virtual environment and activate it (optional)
 python -m venv venv
 source venv/bin/activate
------
+
 
 # Important links and Code
+-----
 
 ## Install Airflow 
 -----
