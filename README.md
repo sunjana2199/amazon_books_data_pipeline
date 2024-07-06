@@ -56,7 +56,7 @@ Code to add in yaml file
 
 <div align="left">
       <a href="https://www.youtube.com/watch?v=3xyoM28B40Y">
-         <img src="https://img.youtube.com/vi/3xyoM28B40Y/0.jpg" style="width:100%;">
+         <img src="https://img.youtube.com/vi/3xyoM28B40Y/0.jpg" style="width:80%;">
       </a>
 </div>
 
