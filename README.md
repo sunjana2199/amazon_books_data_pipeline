@@ -16,17 +16,24 @@ Follow steps in the link - https://airflow.apache.org/docs/apache-airflow/stable
 ## Install PGAdmin 
 -----
 Code to add in yaml file 
+
 """
 pgadmin:
     container_name: pgadmin4_container2
+    
     image: dpage/pgadmin4
+    
     restart: always
+    
     environment:
+    
       PGADMIN_DEFAULT_EMAIL: admin@admin.com
       PGADMIN_DEFAULT_PASSWORD: root
+      
     ports:
       - "5050:80"
 """
+
 -----
 
 # Pipeline Design
