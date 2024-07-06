@@ -4,8 +4,12 @@
 
 
 ## Create a virtual environment and activate it (optional)
-python -m venv venv
-source venv/bin/activate
+"""
+
+    python -m venv venv
+    source venv/bin/activate
+
+"""
 
 
 # Important links and Code
